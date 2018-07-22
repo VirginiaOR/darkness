@@ -1,0 +1,31 @@
+/* 
+    Created on : 22-jul-2018, 18:47:19
+    Author     : Miguelon
+*/
+#cabecera{
+    padding-top: 0;
+    width: 100%;
+    min-height: 100px;
+    background-color: red;
+    text-align: center;
+    font-size: 24px;
+}
+
+#sidebar{
+    float:left;
+    width: 150px;
+    background-color: blue;
+    padding-bottom: 400px;
+}
+
+#content{
+    /*float:right;*/
+    padding-bottom: 400px;
+}
+
+#centro{
+    background-color: yellow;
+}
+#pie{
+    background-color: purple;
+}
