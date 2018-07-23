@@ -8,9 +8,8 @@
     <body>
         <header id="cabecera">Cabecera de la página</header>
         <div id="centro">
-            <div id="sidebar">Links a otras páginas</div>
-             
-            <a href="link_darkness/Bibliofrafia.php">Bibliografía
+            <div id="sidebar">Links a otras páginas</br>
+                <a href="link_darkness/Bibliofrafia.php">Bibliografía
             </a></br>
              <a href="link_darkness/Form_Registro.php">Regístrate
              </a></br>
@@ -18,6 +17,9 @@
             </a></br>
             <a href="link_darkness/Usuarios.php">Usuarios Registrados
             </a></br>
+            </div>
+             
+            
             
             
             
