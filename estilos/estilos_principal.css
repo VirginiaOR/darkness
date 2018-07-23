@@ -29,3 +29,14 @@
 #pie{
     background-color: purple;
 }
+
+/*header #registro, header ul{
+    float: right;
+    list-style:none;
+}*/
+
+ header ul{
+    float: right;
+    list-style:none;
+    padding-right: 5px; 
+}
