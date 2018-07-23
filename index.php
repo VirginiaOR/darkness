@@ -9,18 +9,18 @@
         <header id="cabecera">Cabecera de la página</header>
         <div id="centro">
             <div id="sidebar">Links a otras páginas</br>
-                <ul> <li tipe="disc"</li> <a href="link_darkness/Bibliofrafia.php">Bibliografía
-            </a></br>
-             <li tipe="disc"</li><a href="link_darkness/Form_Registro.php">Regístrate
-             </a></br>
-           <li tipe="disc"</li><a href="link_darkness/Form_login.php">Loguéate
-            </a></br>
-            <li tipe="disc"</li><a href="link_darkness/Usuarios.php">Usuarios 
-            </a></br></ul>
+                <ul> <li> <a href="link_darkness/Bibliofrafia.php">Bibliografía</li>
+            </a>
+                    <li> <a href="link_darkness/Form_Registro.php">Regístrate</li>
+             </a>
+                    <li><a href="link_darkness/Form_login.php">Loguéate</li>
+            </a>
+            <li> <a href="link_darkness/Usuarios.php">Usuarios </li>
+            </a></ul>
             </div>
              
-            
-            
+                
+                        
             
             
             
