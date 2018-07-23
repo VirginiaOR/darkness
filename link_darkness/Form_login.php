@@ -1,8 +1,8 @@
-<?php
+<form method="post" action="ValidaUsuario.php">
+    <input type="text" name="user">
+    <input type="text" name="pass">
+    <input type="submit" value="Entrar">
+</form>
 
-/* 
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+
 
