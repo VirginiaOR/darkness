@@ -6,13 +6,14 @@
         <title>Darkness</title>
     </head>
     <body>
+        
         <header id="cabecera">Cabecera de la página 
             <ul>
                 <li>
                     <a id="registro" href="link_darkness/Form_Registro.php">Regístrate</a>
                 </li>
                 <li>
-                    <a href="link_darkness/Form_login.php">Loguéate</a>
+                    <a href="sis_login/Form_login.php">Loguéate</a>
                 </li>
             </ul>
         </header>
