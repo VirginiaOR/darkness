@@ -3,7 +3,7 @@
 <!doctype html>
 <html>
     <head>
-        <meta htpp-equiv="content-type" content=text/html"; charset="utf-8">
+        <meta  charset="utf-8">
         
           <title>sin titulo</title>
     </head>
@@ -22,8 +22,11 @@
        
        Apellido2:<input type="text" name="apellido2" id="apellido2"><br>
        
-       Email:&nbsp<input type="email" name="email@" id="email@" required><br>
+       Email:<input type="email" name="email@" id="email" required><br>
        
        <input type="submit" name="enviar" value="validar">
-                       
+       
+        </form>
+    </body>
                      
+</html>                
