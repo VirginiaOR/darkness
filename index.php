@@ -13,7 +13,7 @@
                     <a id="registro" href="link_darkness/Form_Registro.php">Regístrate</a>
                 </li>
                 <li>
-                    <a href="sis_login/Form_login.php">Loguéate</a>
+                    <a href=" "></a>
                 </li>
             </ul>
         </header>
@@ -21,7 +21,7 @@
             <div id="sidebar">Links a otras páginas</br>
                 <ul> 
                     <li>
-                        <a href="link_darkness/Bibliofrafia.php">Bibliografía</a>
+                        <a href=" "></a>
                     </li>
                     
                     

@@ -3,7 +3,7 @@
 <!doctype html>
 <html>
     <head>
-        <meta htpp-equiv="content-type" content==text/html"; charset="utf-8">
+        <meta htpp-equiv="content-type" content=text/html"; charset="utf-8">
         
           <title>sin titulo</title>
     </head>
@@ -14,15 +14,15 @@
         
         <form method="post" action="Usuarios.php">
    
-       Nombre:<input type="text" name="Nombre" id="texto" required><br>
+       Nombre:<input type="text" name="nombre" id="nombre" required><br>
        
-       Contraseña:<input type="password" name="password" id="contraseña" required><br>
+       Contraseña:<input type="password" name="password" id="password" required><br>
        
-       Apellido:<input type="text" name="apellido" id="apellido_1" required><br>
+       Apellido:<input type="text" name="apellido" id="apellido1" required><br>
        
-       Apellido2:<input type="text" name="apellido2" id="apellido_2"><br>
+       Apellido2:<input type="text" name="apellido2" id="apellido2"><br>
        
-       Email:&nbsp<input type="email" name="email@" id="correoe" required><br>
+       Email:&nbsp<input type="email" name="email@" id="email@" required><br>
        
        <input type="submit" name="enviar" value="validar">
                        
