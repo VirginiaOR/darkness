@@ -11,10 +11,13 @@
         <h1>INTRODUCE TUS DATOS</h1>
         
         <form method="post" action="Usuarios.php">
-   <table>
-       <tr><td class="izq">Nombre:</td><td class="der"><input type="text" name="Nombre"></td></tr>
+   
+       Nombre:<input type="text" name="Nombre" id="texto" required><br>
        
-       <tr><td class="izq">Contraseña:</td><td class="der"><input type="password" name="password"></td></tr>
-       <tr><td colspan="2"><input type="submit" name="enviar" value="validar"></td></tr></table>
+       Contraseña:<input type="password" name="password" id="contraseña"    required><br>
+       Apellido:<input type="text" name="apellido" id="texto" required><br>
+       Apellido2:<input type="text" name="apellido" id="texto"><br>
+       Email:&nbsp<input type="email" name="email" id="email" required><br>
+       <input type="submit" name="enviar" value="validar">
                        
                      
